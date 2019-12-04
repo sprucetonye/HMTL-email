@@ -1,0 +1,17 @@
+<!--start of icon table -->
+<table class="icon-table"
+width="100%" align="left"
+cellspacing="0"
+cellpading="0" border="0" ;>
+<td>
+<img src="../spruce-email/images/retina_icon-48.png " alt="">
+</td>
+
+<td style="font-family: 'open sans', 
+'Helvetica Neue',
+'Helvetica, Arial', 'sans-serif'; color: #333333; padding: 0 0 0
+15px; font-weight: 600px; text-transform: uppercase; font-size: 14px;">
+Retina Ready
+</td>
+</table>
+<!--end of icon table-->
